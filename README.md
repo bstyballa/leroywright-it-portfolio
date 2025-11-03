@@ -1,10 +1,9 @@
 # leroywright-it-portfolio
 
 Welcome to my IT portfolio!  
-> ⚙️ This GitHub is an ongoing showcase of my hands-on learning in networking, cloud, cybersecurity and infrastructure.  
-> I’m currently completing the CompTIA Network+ certification while building labs in Cisco Packet Tracer and Wireshark.  
-> New projects and documentation are added weekly as I progress through each topic.
-
+> ⚙️ This GitHub is an ongoing showcase of my hands-on learning in **networking, cloud, cybersecurity, and infrastructure**.  
+> I’m currently working toward the **CompTIA Network+ certification** while building practical labs in **Cisco Packet Tracer** and **Wireshark**.  
+> New projects and documentation are added regularly as I expand my technical skills and understanding of real-world IT environments.
 ---
 
 
