@@ -1,9 +1,9 @@
 # leroywright-it-portfolio
 
 Welcome to my IT portfolio!  
-I’m an **IT Support Specialist & Cloud Security Enthusiast** with hands-on experience in **networking, identity & access management (IAM), and cloud security** using **AWS, Azure, and Linux**.  
-
-This repository documents my hands-on labs and technical projects built while advancing my skills toward roles in **IT Support, IAM, and Cloud Engineering**.
+> ⚙️ This GitHub is an ongoing showcase of my hands-on learning in networking, cloud, cybersecurity and infrastructure.  
+> I’m currently completing the CompTIA Network+ certification while building labs in Cisco Packet Tracer and Wireshark.  
+> New projects and documentation are added weekly as I progress through each topic.
 
 ---
 
