@@ -37,6 +37,8 @@ This indicates that:
 
 ## Troubleshooting Steps
 
+### 1. Check Current IP Configuration
+
 **Finding:**
 - DNS server was set to **192.168.50.50**, which is not a valid DNS server on this network.
 
