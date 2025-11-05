@@ -18,23 +18,21 @@
 | 636 | LDAPS | Secure LDAP | TCP | Layer 7 – Application |
 | 161/162 | SNMP | Network monitoring + device management | UDP | Layer 7 – Application |
 | 3389 | RDP | Remote desktop (GUI remote control) | TCP/UDP | Layer 7 – Application |
-
-### Quick Memory Tip
-Group by function instead of numbers:
-- **Web:** 80 / 443  
-- **Remote:** 22 / 23 / 3389  
-- **Email:** 25 / 110 / 143  
-- **File:** 20-21 / 69 / 445  
-- **Network Infrastructure:** 53 / 67-68 / 389-636 / 161-162
-
 ---
 
-## Why This Matters (Interview Talking Point)
-Ports are critical for:
-- Troubleshooting blocked services
-- Diagnosing firewall issues
-- Identifying application failures
-- Packet/traffic analysis
+## Memory Grouping (Fast Recall Strategy)
 
-Knowing *why* ports matter is more important than just memorizing numbers.
+### Web Browsing
+| 80 = HTTP | 443 = HTTPS |
 
+### Remote Access
+| 22 = SSH | 23 = Telnet | 3389 = RDP |
+
+### File Sharing / Transfers
+| 20/21 = FTP | 69 = TFTP | 445 = SMB |
+
+### Email
+| 25 = SMTP | 110 = POP3 | 143 = IMAP |
+
+### Network Infrastructure
+| 53 = DNS | 67/68 = DHCP | 389/636 = LDAP/LDAPS | 161/162 = SNMP |
