@@ -35,6 +35,7 @@ Welcome to my IT portfolio!
 - **LinkedIn:** [linkedin.com/in/leroy-wright-9a1a4377](https://linkedin.com/in/leroy-wright-9a1a4377)  
 - **Email:** leroywright7@gmail.com  
 
+Actively targeting: NOC Technician | Network Support | Infrastructure Support
 ---
 
 > “Learning by doing — building secure systems one lab at a time.”
